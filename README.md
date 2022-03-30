@@ -1,4 +1,4 @@
-# Analyzing human behaviour and their trajectories in space from a social perspective
+# Analysing human behaviour and their trajectories in space from a social perspective
  
 This repository contains the work in progress for the project __Detecting Socially Occupied Spaces__ at the [University of Münster](https://www.uni-muenster.de/Geoinformatics/en/).
 
