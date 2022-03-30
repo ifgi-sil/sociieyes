@@ -1,11 +1,15 @@
 # Analysing human behaviour and their trajectories in space from a social perspective
  
-This repository contains the work in progress for the project __Detecting Socially Occupied Spaces__ at the [University of Münster](https://www.uni-muenster.de/Geoinformatics/en/).
+Repository containing the work in progress for the project __Detecting Socially Occupied Spaces__ at the [University of Münster](https://www.uni-muenster.de/Geoinformatics/en/).
 
-## Objective
-This research aims to design a technological solution to interpret the socially occupied space automatically by using detph cameras.
+## Goal
+This research aims to design a technological solution to interpret the socially occupied space automatically by using depth cameras.
 
-## Team
+## Publications
 
-- Angela Schwering
-- Violeta Ana Luz Sosa-León
+- [V. A. L. S. León and A. Schwering, "Detecting socially occupied spaces with depth cameras: evaluating location and body orientation as relevant social features," 2021 International Conference on Indoor Positioning and Indoor Navigation (IPIN), 2021, pp. 1-8, doi: 10.1109/IPIN51156.2021.9662607](https://ieeexplore.ieee.org/document/9662607)
+
+## Collaborators
+
+- [Angela Schwering](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/109/Angela_Schwering)
+- [Violeta Ana Luz Sosa-León](https://violetasdev.com/)
