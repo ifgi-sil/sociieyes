@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\viole\Documents\GitHub\socialinteract\kinectSpaces\obj\x64\Debug\
+C:\Users\viole\Documents\GitHub\socialinteract\kinectSpaces\obj\Release\
 kinectSpaces
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\viole\Documents\GitHub\socialinteract\kinectSpaces\App.xaml
 2-1912973829
 

@@ -1,4 +1,8 @@
-﻿using System;
+﻿// violetasdev 
+// version 1.0 - kinectSpaces visualization
+// Last mod: sept 2021
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
