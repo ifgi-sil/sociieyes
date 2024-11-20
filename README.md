@@ -15,3 +15,9 @@ This research aims to design a technological solution to interpret the socially 
 
 - [Angela Schwering](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/109/Angela_Schwering)
 - [Violeta Ana Luz Sosa-León](https://violetasdev.com/)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
